@@ -1,0 +1,287 @@
+{
+	"" : 
+	{
+		"GENERAL" : 
+		{
+			"aimbot.key" : 1,
+			"config.reload.key" : 45,
+			"panic.key" : 96,
+			"triggerbot.key" : 18
+		}
+	},
+	"WEAPON_SETTINGS" : 
+	{
+		"AK-47" : 
+		{
+			"bone" : 8,
+			"enabled" : true,
+			"fov" : 2,
+			"rcs" : true,
+			"smooth" : 10
+		},
+		"AUG" : 
+		{
+			"bone" : 8,
+			"enabled" : true,
+			"fov" : 2,
+			"rcs" : true,
+			"smooth" : 10
+		},
+		"AWP" : 
+		{
+			"bone" : 8,
+			"enabled" : true,
+			"fov" : 2,
+			"rcs" : true,
+			"smooth" : 10
+		},
+		"CZ75 Auto" : 
+		{
+			"bone" : 8,
+			"enabled" : true,
+			"fov" : 2,
+			"rcs" : true,
+			"smooth" : 10
+		},
+		"Desert Eagle" : 
+		{
+			"bone" : 8,
+			"enabled" : true,
+			"fov" : 2,
+			"rcs" : true,
+			"smooth" : 10
+		},
+		"Dual Berettas" : 
+		{
+			"bone" : 8,
+			"enabled" : true,
+			"fov" : 2,
+			"rcs" : true,
+			"smooth" : 10
+		},
+		"FAMAS" : 
+		{
+			"bone" : 8,
+			"enabled" : true,
+			"fov" : 2,
+			"rcs" : true,
+			"smooth" : 10
+		},
+		"Five-SeveN" : 
+		{
+			"bone" : 8,
+			"enabled" : true,
+			"fov" : 2,
+			"rcs" : true,
+			"smooth" : 10
+		},
+		"G3SG1" : 
+		{
+			"bone" : 8,
+			"enabled" : true,
+			"fov" : 2,
+			"rcs" : true,
+			"smooth" : 10
+		},
+		"Galil AR" : 
+		{
+			"bone" : 8,
+			"enabled" : true,
+			"fov" : 2,
+			"rcs" : true,
+			"smooth" : 10
+		},
+		"Glock-18" : 
+		{
+			"bone" : 8,
+			"enabled" : true,
+			"fov" : 2,
+			"rcs" : true,
+			"smooth" : 10
+		},
+		"M249" : 
+		{
+			"bone" : 8,
+			"enabled" : true,
+			"fov" : 2,
+			"rcs" : true,
+			"smooth" : 10
+		},
+		"M4A1-S" : 
+		{
+			"bone" : 8,
+			"enabled" : true,
+			"fov" : 2,
+			"rcs" : true,
+			"smooth" : 10
+		},
+		"M4A4" : 
+		{
+			"bone" : 8,
+			"enabled" : true,
+			"fov" : 2,
+			"rcs" : true,
+			"smooth" : 10
+		},
+		"MAC-10" : 
+		{
+			"bone" : 8,
+			"enabled" : true,
+			"fov" : 2,
+			"rcs" : true,
+			"smooth" : 10
+		},
+		"MAG-7" : 
+		{
+			"bone" : 8,
+			"enabled" : true,
+			"fov" : 2,
+			"rcs" : true,
+			"smooth" : 10
+		},
+		"MP5" : 
+		{
+			"bone" : 8,
+			"enabled" : true,
+			"fov" : 2,
+			"rcs" : true,
+			"smooth" : 10
+		},
+		"MP7" : 
+		{
+			"bone" : 8,
+			"enabled" : true,
+			"fov" : 2,
+			"rcs" : true,
+			"smooth" : 10
+		},
+		"MP9" : 
+		{
+			"bone" : 8,
+			"enabled" : true,
+			"fov" : 2,
+			"rcs" : true,
+			"smooth" : 10
+		},
+		"Negev" : 
+		{
+			"bone" : 8,
+			"enabled" : true,
+			"fov" : 2,
+			"rcs" : true,
+			"smooth" : 10
+		},
+		"Nova" : 
+		{
+			"bone" : 8,
+			"enabled" : true,
+			"fov" : 2,
+			"rcs" : true,
+			"smooth" : 10
+		},
+		"P2000" : 
+		{
+			"bone" : 8,
+			"enabled" : true,
+			"fov" : 2,
+			"rcs" : true,
+			"smooth" : 10
+		},
+		"P250" : 
+		{
+			"bone" : 8,
+			"enabled" : true,
+			"fov" : 2,
+			"rcs" : true,
+			"smooth" : 10
+		},
+		"P90" : 
+		{
+			"bone" : 8,
+			"enabled" : true,
+			"fov" : 2,
+			"rcs" : true,
+			"smooth" : 10
+		},
+		"PP-Bizon" : 
+		{
+			"bone" : 8,
+			"enabled" : true,
+			"fov" : 2,
+			"rcs" : true,
+			"smooth" : 10
+		},
+		"R8 Revolver" : 
+		{
+			"bone" : 8,
+			"enabled" : true,
+			"fov" : 2,
+			"rcs" : true,
+			"smooth" : 10
+		},
+		"SCAR-20" : 
+		{
+			"bone" : 8,
+			"enabled" : true,
+			"fov" : 2,
+			"rcs" : true,
+			"smooth" : 10
+		},
+		"SG 553" : 
+		{
+			"bone" : 8,
+			"enabled" : true,
+			"fov" : 2,
+			"rcs" : true,
+			"smooth" : 10
+		},
+		"SSG 08" : 
+		{
+			"bone" : 8,
+			"enabled" : true,
+			"fov" : 2,
+			"rcs" : true,
+			"smooth" : 10
+		},
+		"Sawed-Off" : 
+		{
+			"bone" : 8,
+			"enabled" : true,
+			"fov" : 2,
+			"rcs" : true,
+			"smooth" : 10
+		},
+		"Tec-9" : 
+		{
+			"bone" : 8,
+			"enabled" : true,
+			"fov" : 2,
+			"rcs" : true,
+			"smooth" : 10
+		},
+		"UMP-45" : 
+		{
+			"bone" : 8,
+			"enabled" : true,
+			"fov" : 2,
+			"rcs" : true,
+			"smooth" : 10
+		},
+		"USP-S" : 
+		{
+			"bone" : 8,
+			"enabled" : true,
+			"fov" : 2,
+			"rcs" : true,
+			"smooth" : 10
+		},
+		"XM1014" : 
+		{
+			"bone" : 8,
+			"enabled" : true,
+			"fov" : 2,
+			"rcs" : true,
+			"smooth" : 10
+		}
+	}
+}
